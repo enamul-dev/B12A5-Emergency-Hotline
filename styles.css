@@ -1,3 +1,7 @@
+body{
+    background-color: #f5fff6;
+}
+
 .container{
     max-width: 1600px;
     margin: 0 auto;
